@@ -1,21 +1,14 @@
 ### Hi there 👋, 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/> <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/> <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" /> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"/> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Msgl&exclude_repo=vintage-newspaper-bootstrap,msgl.github.io&theme=tokyonight&show_icons=true)](https://github.com/msgl/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Msgl&theme=tokyonight&show_icons=true)
 
 
 
-### Programming Languages, Frameworks, Libraries & Tools
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/><img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
-
-
-
-
-
-
-#### Credits
-:small_blue_diamond: github-readme-stats: https://github.com/anuraghazra/github-readme-stats
-
-:small_blue_diamond: markdown-badges: https://github.com/Ileriayo/markdown-badges
+**Credits** :
+<sub><sup>[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</sub></sup> / 
+<sub><sup> [markdown-badges](https://github.com/inttter/md-badges)</sub></sup>
 
 <!--
 **Msgl/Msgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
